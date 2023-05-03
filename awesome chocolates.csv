@@ -1,0 +1,401 @@
+Salesperson,SPID,Team,Location,GeoID,PID,Customers,Boxes,Product,Category,Size,Cost_per_box($),boxes price($)
+barfaughny,SP01,Yummies,Hyderabad,G4,P04,276,495,Raspberry Choco,Bars,LARGE,4.1 ,2024.55
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G3,P14,317,54,White Choc,Other,SMALL,0.16,8.64
+Karlen McCaffrey,SP12,Yummies,Wellington,G2,P08,178,269,99% Dark & Pure,Bars,LARGE,2.47,664.43
+barfaughny,SP01,Yummies,Hyderabad,G4,P15,32,22,Baker's Choco Chips,Bars,SMALL,3.4,74.8
+Beverie Moffet,SP19,Jucies,Seattle,G2,P18,4,179,Manuka Honey Choco,Other,SMALL,4.75,850.25
+Rafaelita Blaksland,SP17,Yummies,Wellington,G1,P13,63,122,85% Dark Bars,Bars,SMALL,0.64,78.08
+Oby Sorrel,SP20,Jucies,Seattle,G6,P04,295,71,Raspberry Choco,Bars,LARGE,4.09,290.39
+Dotty Strutley,SP14,Delish,Wellington,G5,P16,370,37,Organic Choco Syrup,Other,SMALL,1.47,54.39
+Brien Boise,SP10,Jucies,Wellington,G5,P17,536,176,Caramel Stuffed Bars,Bars,SMALL,0.54,95.04
+Curtice Advani,SP06,Delish,Hyderabad,G4,P01,115,478,Milk Bars,Bars,LARGE,1.52,726.56
+Madelene Upcott,SP18,Jucies,Wellington,G2,P01,121,180,Milk Bars,Bars,LARGE,1.52,273.6
+Wilone O'Kielt,SP04,Delish,Hyderabad,G4,P16,184,246,Organic Choco Syrup,Other,SMALL,1.47,361.62
+Jehu Rudeforth,SP22,Yummies,Seattle,G3,P05,106,256,Mint Chip Choco,Bars,LARGE,1.54,394.24
+Jehu Rudeforth,SP22,Yummies,Seattle,G2,P09,228,251,Orange Choco,Bars,LARGE,7.14,1792.14
+Brien Boise,SP10,Jucies,Wellington,G1,P06,32,975,Eclairs,Bites,LARGE,2.24,2184
+Curtice Advani,SP06,Delish,Hyderabad,G1,P11,111,330,After Nines,Bites,LARGE,4.43,1461.9
+Camilla Castle,SP25,Delish,Seattle,G6,P05,335,752,Mint Chip Choco,Bars,LARGE,1.54,1158.08
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G4,P13,99,148,85% Dark Bars,Bars,SMALL,0.64,94.72
+Beverie Moffet,SP19,Jucies,Seattle,G3,P10,134,89,Spicy Special Slims,Bites,LARGE,5.79,515.31
+Andria Kimpton,SP09,Jucies,Hyderabad,G2,P07,67,280,Drinking Coco,Other,LARGE,1.62,453.6
+Jehu Rudeforth,SP22,Yummies,Seattle,G4,P22,93,171,Peanut Butter Cubes,Bites,SMALL,3.57,610.47
+Kelci Walkden,SP15,Yummies,Wellington,G2,P22,24,216,Peanut Butter Cubes,Bites,SMALL,3.57,771.12
+Karlen McCaffrey,SP12,Yummies,Wellington,G2,P04,76,204,Raspberry Choco,Bars,LARGE,4.09,834.36
+Madelene Upcott,SP18,Jucies,Wellington,G2,P21,64,1013,Choco Coated Almonds,Bites,SMALL,6.17,6250.21
+Kelci Walkden,SP15,Yummies,Wellington,G6,P21,179,95,Choco Coated Almonds,Bites,SMALL,6.17,586.15
+Karlen McCaffrey,SP12,Yummies,Wellington,G6,P09,9,11,Orange Choco,Bars,LARGE,7.14,78.54
+Oby Sorrel,SP20,Jucies,Seattle,G6,P12,407,134,Fruit & Nut Bars,Bars,LARGE,1.58,211.72
+Husein Augar,SP11,Yummies,Wellington,G2,P17,296,94,Caramel Stuffed Bars,Bars,SMALL,0.54,50.76
+Curtice Advani,SP06,Delish,Hyderabad,G6,P17,61,216,Caramel Stuffed Bars,Bars,SMALL,0.54,116.64
+Van Tuxwell,SP23,Yummies,Seattle,G3,P02,16,262,50% Dark Bites,Bites,LARGE,2.57,673.34
+Beverie Moffet,SP19,Jucies,Seattle,G3,P19,502,943,70% Dark Bites,Bites,SMALL,4.97,4686.71
+Van Tuxwell,SP23,Yummies,Seattle,G1,P16,163,664,Organic Choco Syrup,Other,SMALL,1.47,976.08
+Madelene Upcott,SP18,Jucies,Wellington,G6,P03,152,66,Almond Choco,Bars,LARGE,9.6,633.6
+Rafaelita Blaksland,SP17,Yummies,Wellington,G5,P13,361,573,85% Dark Bars,Bars,SMALL,0.64,366.72
+Marney O'Breen,SP16,Jucies,Wellington,G4,P13,129,140,85% Dark Bars,Bars,SMALL,0.64,89.6
+Madelene Upcott,SP18,Jucies,Wellington,G6,P12,250,643,Fruit & Nut Bars,Bars,LARGE,1.58,1015.94
+Kaine Padly,SP07,Delish,Hyderabad,G4,P11,420,275,After Nines,Bites,LARGE,4.43,1218.25
+Wilone O'Kielt,SP04,Delish,Hyderabad,G2,P09,230,306,Orange Choco,Bars,LARGE,7.14,2184.84
+Kaine Padly,SP07,Delish,Hyderabad,G4,P04,168,271,Raspberry Choco,Bars,LARGE,4.09,1108.39
+Curtice Advani,SP06,Delish,Hyderabad,G4,P19,111,315,70% Dark Bites,Bites,SMALL,4.97,1565.55
+Jan Morforth,SP13,Delish,Wellington,G1,P09,484,279,Orange Choco,Bars,LARGE,7.14,1992.06
+Husein Augar,SP11,Yummies,Wellington,G6,P11,57,276,After Nines,Bites,LARGE,4.43,1222.68
+Wilone O'Kielt,SP04,Delish,Hyderabad,G1,P20,116,34,Smooth Sliky Salty,Bars,SMALL,2.97,100.98
+Ches Bonnell,SP08,Yummies,Hyderabad,G1,P11,87,171,After Nines,Bites,LARGE,4.43,757.53
+Jan Morforth,SP13,Delish,Wellington,G6,P22,29,378,Peanut Butter Cubes,Bites,SMALL,3.57,1349.46
+Andria Kimpton,SP09,Jucies,Hyderabad,G5,P09,10,77,Orange Choco,Bars,LARGE,7.14,549.78
+Oby Sorrel,SP20,Jucies,Seattle,G6,P19,79,91,70% Dark Bites,Bites,SMALL,4.97,452.27
+Kaine Padly,SP07,Delish,Hyderabad,G2,P15,57,184,Baker's Choco Chips,Bars,SMALL,3.4,625.6
+Brien Boise,SP10,Jucies,Wellington,G2,P13,108,61,85% Dark Bars,Bars,SMALL,0.64,39.04
+Husein Augar,SP11,Yummies,Wellington,G2,P20,224,564,Smooth Sliky Salty,Bars,SMALL,2.97,1675.08
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G6,P01,27,101,Milk Bars,Bars,LARGE,1.52,153.52
+Beverie Moffet,SP19,Jucies,Seattle,G3,P21,193,338,Choco Coated Almonds,Bites,SMALL,6.17,2085.46
+Gigi Bohling,SP05,Delish,Hyderabad,G3,P02,155,1307,50% Dark Bites,Bites,LARGE,2.57,3358.99
+Madelene Upcott,SP18,Jucies,Wellington,G1,P18,236,388,Manuka Honey Choco,Other,SMALL,4.75,1843
+Kelci Walkden,SP15,Yummies,Wellington,G6,P17,137,129,Caramel Stuffed Bars,Bars,SMALL,0.54,69.66
+Andria Kimpton,SP09,Jucies,Hyderabad,G5,P13,109,288,85% Dark Bars,Bars,SMALL,0.64,184.32
+Ches Bonnell,SP08,Yummies,Hyderabad,G2,P20,272,226,Smooth Sliky Salty,Bars,SMALL,2.97,671.22
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G1,P05,69,149,Mint Chip Choco,Bars,LARGE,1.54,229.46
+Roddy Speechley,SP24,Delish,Seattle,G4,P17,299,105,Caramel Stuffed Bars,Bars,SMALL,0.54,56.7
+Jehu Rudeforth,SP22,Yummies,Seattle,G5,P09,61,325,Orange Choco,Bars,LARGE,7.14,2320.5
+Karlen McCaffrey,SP12,Yummies,Wellington,G1,P13,123,479,85% Dark Bars,Bars,SMALL,0.64,306.56
+Rafaelita Blaksland,SP17,Yummies,Wellington,G4,P22,2,104,Peanut Butter Cubes,Bites,SMALL,3.57,371.28
+Ches Bonnell,SP08,Yummies,Hyderabad,G1,P17,236,123,Caramel Stuffed Bars,Bars,SMALL,0.54,66.42
+Brien Boise,SP10,Jucies,Wellington,G2,P01,196,14,Milk Bars,Bars,LARGE,1.52,21.28
+Curtice Advani,SP06,Delish,Hyderabad,G2,P04,157,515,Raspberry Choco,Bars,LARGE,4.09,2106.35
+Gigi Bohling,SP05,Delish,Hyderabad,G4,P02,114,486,50% Dark Bites,Bites,LARGE,2.57,1249.02
+Jehu Rudeforth,SP22,Yummies,Seattle,G4,P13,56,319,85% Dark Bars,Bars,SMALL,0.64,204.16
+Gigi Bohling,SP05,Delish,Hyderabad,G5,P04,14,21,Raspberry Choco,Bars,LARGE,4.09,85.89
+Beverie Moffet,SP19,Jucies,Seattle,G5,P14,15,406,White Choc,Other,SMALL,0.16,64.96
+Roddy Speechley,SP24,Delish,Seattle,G2,P09,45,106,Orange Choco,Bars,LARGE,7.14,756.84
+Ches Bonnell,SP08,Yummies,Hyderabad,G6,P04,185,17,Raspberry Choco,Bars,LARGE,4.09,69.53
+Ches Bonnell,SP08,Yummies,Hyderabad,G5,P07,359,257,Drinking Coco,Other,LARGE,1.62,416.34
+Ches Bonnell,SP08,Yummies,Hyderabad,G3,P10,179,579,Spicy Special Slims,Bites,LARGE,5.79,3352.41
+Marney O'Breen,SP16,Jucies,Wellington,G2,P13,109,376,85% Dark Bars,Bars,SMALL,0.64,240.64
+Kelci Walkden,SP15,Yummies,Wellington,G6,P08,33,285,99% Dark & Pure,Bars,LARGE,2.47,703.95
+Van Tuxwell,SP23,Yummies,Seattle,G4,P01,188,113,Milk Bars,Bars,LARGE,1.52,171.76
+barfaughny,SP01,Yummies,Hyderabad,G5,P01,67,315,Milk Bars,Bars,LARGE,1.52,478.8
+Curtice Advani,SP06,Delish,Hyderabad,G1,P14,68,424,White Choc,Other,SMALL,0.16,67.84
+Husein Augar,SP11,Yummies,Wellington,G6,P01,123,8,Milk Bars,Bars,LARGE,1.52,12.16
+Ches Bonnell,SP08,Yummies,Hyderabad,G2,P12,217,390,Fruit & Nut Bars,Bars,LARGE,1.58,616.2
+barfaughny,SP01,Yummies,Hyderabad,G3,P19,188,35,70% Dark Bites,Bites,SMALL,4.97,173.95
+Ches Bonnell,SP08,Yummies,Hyderabad,G5,P19,76,283,70% Dark Bites,Bites,SMALL,4.97,1406.51
+Jan Morforth,SP13,Delish,Wellington,G2,P07,161,187,Drinking Coco,Other,LARGE,1.62,302.94
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G3,P15,147,332,Baker's Choco Chips,Bars,SMALL,3.4,1128.8
+Wilone O'Kielt,SP04,Delish,Hyderabad,G4,P10,5,253,Spicy Special Slims,Bites,LARGE,5.79,1464.87
+Marney O'Breen,SP16,Jucies,Wellington,G2,P02,112,689,50% Dark Bites,Bites,LARGE,2.57,1770.73
+Ches Bonnell,SP08,Yummies,Hyderabad,G4,P16,45,24,Organic Choco Syrup,Other,SMALL,1.47,35.28
+Dotty Strutley,SP14,Delish,Wellington,G1,P10,124,345,Spicy Special Slims,Bites,LARGE,5.79,1997.55
+Brien Boise,SP10,Jucies,Wellington,G2,P12,22,903,Fruit & Nut Bars,Bars,LARGE,1.58,1426.74
+Marney O'Breen,SP16,Jucies,Wellington,G1,P09,206,341,Orange Choco,Bars,LARGE,7.14,2434.74
+Brien Boise,SP10,Jucies,Wellington,G3,P02,123,789,50% Dark Bites,Bites,LARGE,2.57,2027.73
+Mallorie Waber,SP21,Yummies,Seattle,G3,P08,168,217,99% Dark & Pure,Bars,LARGE,2.47,535.99
+Andria Kimpton,SP09,Jucies,Hyderabad,G1,P19,76,77,70% Dark Bites,Bites,SMALL,4.97,382.69
+Jan Morforth,SP13,Delish,Wellington,G6,P03,287,247,Almond Choco,Bars,LARGE,9.6,2371.2
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G2,P21,268,434,Choco Coated Almonds,Bites,SMALL,6.17,2677.78
+Kelci Walkden,SP15,Yummies,Wellington,G2,P21,119,686,Choco Coated Almonds,Bites,SMALL,6.17,4232.62
+Ches Bonnell,SP08,Yummies,Hyderabad,G6,P07,234,32,Drinking Coco,Other,LARGE,1.62,51.84
+Mallorie Waber,SP21,Yummies,Seattle,G1,P15,179,165,Baker's Choco Chips,Bars,SMALL,3.4,561
+Kaine Padly,SP07,Delish,Hyderabad,G4,P13,130,89,85% Dark Bars,Bars,SMALL,0.64,56.96
+Karlen McCaffrey,SP12,Yummies,Wellington,G6,P01,10,222,Milk Bars,Bars,LARGE,1.52,337.44
+Roddy Speechley,SP24,Delish,Seattle,G4,P07,97,50,Drinking Coco,Other,LARGE,1.62,81
+Marney O'Breen,SP16,Jucies,Wellington,G5,P05,365,257,Mint Chip Choco,Bars,LARGE,1.54,395.78
+Madelene Upcott,SP18,Jucies,Wellington,G3,P20,210,347,Smooth Sliky Salty,Bars,SMALL,2.97,1030.59
+Ches Bonnell,SP08,Yummies,Hyderabad,G6,P10,97,54,Spicy Special Slims,Bites,LARGE,5.79,312.66
+Jehu Rudeforth,SP22,Yummies,Seattle,G1,P22,345,139,Peanut Butter Cubes,Bites,SMALL,3.57,496.23
+Andria Kimpton,SP09,Jucies,Hyderabad,G4,P11,201,196,After Nines,Bites,LARGE,4.43,868.28
+Camilla Castle,SP25,Delish,Seattle,G2,P08,183,98,99% Dark & Pure,Bars,LARGE,2.47,242.06
+Jan Morforth,SP13,Delish,Wellington,G2,P04,142,3,Raspberry Choco,Bars,LARGE,4.09,12.27
+Husein Augar,SP11,Yummies,Wellington,G1,P19,17,935,70% Dark Bites,Bites,SMALL,4.97,4646.95
+Gigi Bohling,SP05,Delish,Hyderabad,G6,P20,209,1128,Smooth Sliky Salty,Bars,SMALL,2.97,3350.16
+Oby Sorrel,SP20,Jucies,Seattle,G5,P12,86,810,Fruit & Nut Bars,Bars,LARGE,1.58,1279.8
+Husein Augar,SP11,Yummies,Wellington,G4,P17,195,143,Caramel Stuffed Bars,Bars,SMALL,0.54,77.22
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G2,P12,142,969,Fruit & Nut Bars,Bars,LARGE,1.58,1531.02
+Van Tuxwell,SP23,Yummies,Seattle,G4,P17,340,159,Caramel Stuffed Bars,Bars,SMALL,0.54,85.86
+Rafaelita Blaksland,SP17,Yummies,Wellington,G2,P01,207,357,Milk Bars,Bars,LARGE,1.52,542.64
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G4,P11,282,55,After Nines,Bites,LARGE,4.43,243.65
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G4,P15,260,335,Baker's Choco Chips,Bars,SMALL,3.4,1139
+Rafaelita Blaksland,SP17,Yummies,Wellington,G6,P12,333,483,Fruit & Nut Bars,Bars,LARGE,1.58,763.14
+Roddy Speechley,SP24,Delish,Seattle,G2,P11,78,585,After Nines,Bites,LARGE,4.43,2591.55
+Mallorie Waber,SP21,Yummies,Seattle,G3,P20,62,582,Smooth Sliky Salty,Bars,SMALL,2.97,1728.54
+Wilone O'Kielt,SP04,Delish,Hyderabad,G4,P06,37,61,Eclairs,Bites,LARGE,2.24,136.64
+Andria Kimpton,SP09,Jucies,Hyderabad,G3,P04,317,148,Raspberry Choco,Bars,LARGE,4.09,605.32
+Rafaelita Blaksland,SP17,Yummies,Wellington,G4,P04,244,248,Raspberry Choco,Bars,LARGE,4.09,1014.32
+Curtice Advani,SP06,Delish,Hyderabad,G4,P08,91,19,99% Dark & Pure,Bars,LARGE,2.47,46.93
+Husein Augar,SP11,Yummies,Wellington,G1,P17,49,329,Caramel Stuffed Bars,Bars,SMALL,0.54,177.66
+Karlen McCaffrey,SP12,Yummies,Wellington,G2,P13,422,373,85% Dark Bars,Bars,SMALL,0.64,238.72
+Dotty Strutley,SP14,Delish,Wellington,G4,P17,318,300,Caramel Stuffed Bars,Bars,SMALL,0.54,162
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G4,P05,120,202,Mint Chip Choco,Bars,LARGE,1.54,311.08
+Mallorie Waber,SP21,Yummies,Seattle,G4,P14,61,348,White Choc,Other,SMALL,0.16,55.68
+Camilla Castle,SP25,Delish,Seattle,G1,P03,209,159,Almond Choco,Bars,LARGE,9.6,1526.4
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G6,P14,114,413,White Choc,Other,SMALL,0.16,66.08
+Wilone O'Kielt,SP04,Delish,Hyderabad,G5,P04,55,76,Raspberry Choco,Bars,LARGE,4.09,310.84
+Beverie Moffet,SP19,Jucies,Seattle,G5,P07,150,116,Drinking Coco,Other,LARGE,1.62,187.92
+Brien Boise,SP10,Jucies,Wellington,G1,P01,364,11,Milk Bars,Bars,LARGE,1.52,16.72
+Roddy Speechley,SP24,Delish,Seattle,G5,P04,298,50,Raspberry Choco,Bars,LARGE,4.09,204.5
+Husein Augar,SP11,Yummies,Wellington,G6,P10,102,337,Spicy Special Slims,Bites,LARGE,5.79,1951.23
+Rafaelita Blaksland,SP17,Yummies,Wellington,G2,P10,116,152,Spicy Special Slims,Bites,LARGE,5.79,880.08
+Wilone O'Kielt,SP04,Delish,Hyderabad,G2,P08,25,587,99% Dark & Pure,Bars,LARGE,2.47,1449.89
+barfaughny,SP01,Yummies,Hyderabad,G2,P14,38,167,White Choc,Other,SMALL,0.16,26.72
+Husein Augar,SP11,Yummies,Wellington,G3,P16,346,32,Organic Choco Syrup,Other,SMALL,1.47,47.04
+Oby Sorrel,SP20,Jucies,Seattle,G1,P18,314,169,Manuka Honey Choco,Other,SMALL,4.75,802.75
+Oby Sorrel,SP20,Jucies,Seattle,G3,P09,90,177,Orange Choco,Bars,LARGE,7.14,1263.78
+Van Tuxwell,SP23,Yummies,Seattle,G1,P13,386,47,85% Dark Bars,Bars,SMALL,0.64,30.08
+Ches Bonnell,SP08,Yummies,Hyderabad,G1,P05,103,771,Mint Chip Choco,Bars,LARGE,1.54,1187.34
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G4,P17,134,406,Caramel Stuffed Bars,Bars,SMALL,0.54,219.24
+Jan Morforth,SP13,Delish,Wellington,G2,P20,203,1092,Smooth Sliky Salty,Bars,SMALL,2.97,3243.24
+Roddy Speechley,SP24,Delish,Seattle,G1,P14,102,279,White Choc,Other,SMALL,0.16,44.64
+Gigi Bohling,SP05,Delish,Hyderabad,G3,P10,264,432,Spicy Special Slims,Bites,LARGE,5.79,2501.28
+Husein Augar,SP11,Yummies,Wellington,G2,P18,115,428,Manuka Honey Choco,Other,SMALL,4.75,2033
+Beverie Moffet,SP19,Jucies,Seattle,G2,P03,436,238,Almond Choco,Bars,LARGE,9.6,2284.8
+Madelene Upcott,SP18,Jucies,Wellington,G1,P22,410,202,Peanut Butter Cubes,Bites,SMALL,3.57,721.14
+Mallorie Waber,SP21,Yummies,Seattle,G1,P08,25,508,99% Dark & Pure,Bars,LARGE,2.47,1254.76
+Ches Bonnell,SP08,Yummies,Hyderabad,G6,P06,95,10,Eclairs,Bites,LARGE,2.24,22.4
+Kaine Padly,SP07,Delish,Hyderabad,G6,P10,205,294,Spicy Special Slims,Bites,LARGE,5.79,1702.26
+Curtice Advani,SP06,Delish,Hyderabad,G5,P15,80,53,Baker's Choco Chips,Bars,SMALL,3.4,180.2
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G2,P11,193,111,After Nines,Bites,LARGE,4.43,491.73
+Ches Bonnell,SP08,Yummies,Hyderabad,G1,P18,131,155,Manuka Honey Choco,Other,SMALL,4.75,736.25
+Wilone O'Kielt,SP04,Delish,Hyderabad,G4,P04,164,267,Raspberry Choco,Bars,LARGE,4.09,1092.03
+Husein Augar,SP11,Yummies,Wellington,G6,P05,301,357,Mint Chip Choco,Bars,LARGE,1.54,549.78
+Wilone O'Kielt,SP04,Delish,Hyderabad,G4,P22,34,45,Peanut Butter Cubes,Bites,SMALL,3.57,160.65
+Brien Boise,SP10,Jucies,Wellington,G6,P02,247,49,50% Dark Bites,Bites,LARGE,2.57,125.93
+Camilla Castle,SP25,Delish,Seattle,G4,P05,16,384,Mint Chip Choco,Bars,LARGE,1.54,591.36
+Brien Boise,SP10,Jucies,Wellington,G3,P06,338,18,Eclairs,Bites,LARGE,2.24,40.32
+Brien Boise,SP10,Jucies,Wellington,G6,P19,38,584,70% Dark Bites,Bites,SMALL,4.97,2902.48
+Kelci Walkden,SP15,Yummies,Wellington,G1,P15,127,13,Baker's Choco Chips,Bars,SMALL,3.4,44.2
+Marney O'Breen,SP16,Jucies,Wellington,G1,P08,57,134,99% Dark & Pure,Bars,LARGE,2.47,330.98
+Beverie Moffet,SP19,Jucies,Seattle,G4,P21,86,488,Choco Coated Almonds,Bites,SMALL,6.17,3010.96
+Andria Kimpton,SP09,Jucies,Hyderabad,G6,P11,14,124,After Nines,Bites,LARGE,4.43,549.32
+Jan Morforth,SP13,Delish,Wellington,G4,P21,85,452,Choco Coated Almonds,Bites,SMALL,6.17,2788.84
+Wilone O'Kielt,SP04,Delish,Hyderabad,G2,P20,6,411,Smooth Sliky Salty,Bars,SMALL,2.97,1220.67
+Madelene Upcott,SP18,Jucies,Wellington,G1,P11,38,233,After Nines,Bites,LARGE,4.43,1032.19
+Beverie Moffet,SP19,Jucies,Seattle,G1,P07,39,513,Drinking Coco,Other,LARGE,1.62,831.06
+Rafaelita Blaksland,SP17,Yummies,Wellington,G5,P01,106,90,Milk Bars,Bars,LARGE,1.52,136.8
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G6,P02,86,332,50% Dark Bites,Bites,LARGE,2.57,853.24
+Brien Boise,SP10,Jucies,Wellington,G6,P16,158,234,Organic Choco Syrup,Other,SMALL,1.47,343.98
+Ches Bonnell,SP08,Yummies,Hyderabad,G5,P03,408,17,Almond Choco,Bars,LARGE,9.6,163.2
+Gigi Bohling,SP05,Delish,Hyderabad,G1,P13,483,30,85% Dark Bars,Bars,SMALL,0.64,19.2
+Kaine Padly,SP07,Delish,Hyderabad,G5,P21,65,110,Choco Coated Almonds,Bites,SMALL,6.17,678.7
+Marney O'Breen,SP16,Jucies,Wellington,G4,P21,267,26,Choco Coated Almonds,Bites,SMALL,6.17,160.42
+Dotty Strutley,SP14,Delish,Wellington,G3,P20,346,426,Smooth Sliky Salty,Bars,SMALL,2.97,1265.22
+Madelene Upcott,SP18,Jucies,Wellington,G5,P08,264,31,99% Dark & Pure,Bars,LARGE,2.47,76.57
+Van Tuxwell,SP23,Yummies,Seattle,G3,P13,457,248,85% Dark Bars,Bars,SMALL,0.64,158.72
+Ches Bonnell,SP08,Yummies,Hyderabad,G6,P15,203,442,Baker's Choco Chips,Bars,SMALL,3.4,1502.8
+Ches Bonnell,SP08,Yummies,Hyderabad,G2,P17,286,160,Caramel Stuffed Bars,Bars,SMALL,0.54,86.4
+Oby Sorrel,SP20,Jucies,Seattle,G4,P18,70,192,Manuka Honey Choco,Other,SMALL,4.75,912
+Curtice Advani,SP06,Delish,Hyderabad,G4,P13,199,147,85% Dark Bars,Bars,SMALL,0.64,94.08
+Karlen McCaffrey,SP12,Yummies,Wellington,G4,P09,181,616,Orange Choco,Bars,LARGE,7.14,4398.24
+Camilla Castle,SP25,Delish,Seattle,G4,P13,68,68,85% Dark Bars,Bars,SMALL,0.64,43.52
+barfaughny,SP01,Yummies,Hyderabad,G2,P09,85,1644,Orange Choco,Bars,LARGE,7.14,11738.16
+Gigi Bohling,SP05,Delish,Hyderabad,G5,P14,295,927,White Choc,Other,SMALL,0.16,148.32
+Ches Bonnell,SP08,Yummies,Hyderabad,G3,P20,44,460,Smooth Sliky Salty,Bars,SMALL,2.97,1366.2
+Marney O'Breen,SP16,Jucies,Wellington,G4,P02,280,254,50% Dark Bites,Bites,LARGE,2.57,652.78
+Oby Sorrel,SP20,Jucies,Seattle,G6,P16,167,268,Organic Choco Syrup,Other,SMALL,1.47,393.96
+Marney O'Breen,SP16,Jucies,Wellington,G3,P15,1,248,Baker's Choco Chips,Bars,SMALL,3.4,843.2
+Brien Boise,SP10,Jucies,Wellington,G3,P17,470,79,Caramel Stuffed Bars,Bars,SMALL,0.54,42.66
+Roddy Speechley,SP24,Delish,Seattle,G5,P02,194,599,50% Dark Bites,Bites,LARGE,2.57,1539.43
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G3,P16,261,576,Organic Choco Syrup,Other,SMALL,1.47,846.72
+Rafaelita Blaksland,SP17,Yummies,Wellington,G6,P03,151,111,Almond Choco,Bars,LARGE,9.6,1065.6
+Jan Morforth,SP13,Delish,Wellington,G6,P04,458,228,Raspberry Choco,Bars,LARGE,4.09,932.52
+Rafaelita Blaksland,SP17,Yummies,Wellington,G6,P13,11,634,85% Dark Bars,Bars,SMALL,0.64,405.76
+Ches Bonnell,SP08,Yummies,Hyderabad,G4,P15,59,498,Baker's Choco Chips,Bars,SMALL,3.4,1693.2
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G6,P09,227,1667,Orange Choco,Bars,LARGE,7.14,11902.38
+Van Tuxwell,SP23,Yummies,Seattle,G3,P21,54,210,Choco Coated Almonds,Bites,SMALL,6.17,1295.7
+Karlen McCaffrey,SP12,Yummies,Wellington,G1,P12,110,580,Fruit & Nut Bars,Bars,LARGE,1.58,916.4
+Oby Sorrel,SP20,Jucies,Seattle,G2,P03,94,10,Almond Choco,Bars,LARGE,9.6,96
+Camilla Castle,SP25,Delish,Seattle,G6,P08,256,192,99% Dark & Pure,Bars,LARGE,2.47,474.24
+Husein Augar,SP11,Yummies,Wellington,G6,P14,193,136,White Choc,Other,SMALL,0.16,21.76
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G1,P08,302,509,99% Dark & Pure,Bars,LARGE,2.47,1257.23
+Karlen McCaffrey,SP12,Yummies,Wellington,G6,P04,206,533,Raspberry Choco,Bars,LARGE,4.09,2179.97
+Andria Kimpton,SP09,Jucies,Hyderabad,G5,P08,164,88,99% Dark & Pure,Bars,LARGE,2.47,217.36
+Marney O'Breen,SP16,Jucies,Wellington,G6,P09,337,580,Orange Choco,Bars,LARGE,7.14,4141.2
+Kaine Padly,SP07,Delish,Hyderabad,G1,P08,323,35,99% Dark & Pure,Bars,LARGE,2.47,86.45
+Marney O'Breen,SP16,Jucies,Wellington,G6,P04,48,195,Raspberry Choco,Bars,LARGE,4.09,797.55
+Rafaelita Blaksland,SP17,Yummies,Wellington,G4,P15,122,562,Baker's Choco Chips,Bars,SMALL,3.4,1910.8
+Brien Boise,SP10,Jucies,Wellington,G1,P12,219,420,Fruit & Nut Bars,Bars,LARGE,1.58,663.6
+Brien Boise,SP10,Jucies,Wellington,G1,P16,257,157,Organic Choco Syrup,Other,SMALL,1.47,230.79
+Andria Kimpton,SP09,Jucies,Hyderabad,G2,P02,101,300,50% Dark Bites,Bites,LARGE,2.57,771
+Beverie Moffet,SP19,Jucies,Seattle,G2,P10,302,319,Spicy Special Slims,Bites,LARGE,5.79,1847.01
+Ches Bonnell,SP08,Yummies,Hyderabad,G4,P22,35,2,Peanut Butter Cubes,Bites,SMALL,3.57,7.14
+Jan Morforth,SP13,Delish,Wellington,G1,P21,222,109,Choco Coated Almonds,Bites,SMALL,6.17,672.53
+Van Tuxwell,SP23,Yummies,Seattle,G3,P08,242,541,99% Dark & Pure,Bars,LARGE,2.47,1336.27
+Andria Kimpton,SP09,Jucies,Hyderabad,G3,P20,219,361,Smooth Sliky Salty,Bars,SMALL,2.97,1072.17
+Marney O'Breen,SP16,Jucies,Wellington,G4,P10,100,400,Spicy Special Slims,Bites,LARGE,5.79,2316
+Oby Sorrel,SP20,Jucies,Seattle,G5,P21,115,374,Choco Coated Almonds,Bites,SMALL,6.17,2307.58
+Dotty Strutley,SP14,Delish,Wellington,G1,P22,46,463,Peanut Butter Cubes,Bites,SMALL,3.57,1652.91
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G2,P04,37,156,Raspberry Choco,Bars,LARGE,4.09,638.04
+Madelene Upcott,SP18,Jucies,Wellington,G3,P19,81,134,70% Dark Bites,Bites,SMALL,4.97,665.98
+Curtice Advani,SP06,Delish,Hyderabad,G5,P03,357,180,Almond Choco,Bars,LARGE,9.6,1728
+Karlen McCaffrey,SP12,Yummies,Wellington,G3,P21,82,83,Choco Coated Almonds,Bites,SMALL,6.17,512.11
+barfaughny,SP01,Yummies,Hyderabad,G4,P05,82,210,Mint Chip Choco,Bars,LARGE,1.54,323.4
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G2,P21,212,609,Choco Coated Almonds,Bites,SMALL,6.17,3757.53
+Mallorie Waber,SP21,Yummies,Seattle,G4,P19,313,32,70% Dark Bites,Bites,SMALL,4.97,159.04
+Brien Boise,SP10,Jucies,Wellington,G4,P14,216,138,White Choc,Other,SMALL,0.16,22.08
+Brien Boise,SP10,Jucies,Wellington,G3,P09,46,615,Orange Choco,Bars,LARGE,7.14,4391.1
+Madelene Upcott,SP18,Jucies,Wellington,G6,P14,242,208,White Choc,Other,SMALL,0.16,33.28
+Wilone O'Kielt,SP04,Delish,Hyderabad,G1,P10,173,387,Spicy Special Slims,Bites,LARGE,5.79,2240.73
+Van Tuxwell,SP23,Yummies,Seattle,G6,P09,1,716,Orange Choco,Bars,LARGE,7.14,5112.24
+Oby Sorrel,SP20,Jucies,Seattle,G5,P07,229,263,Drinking Coco,Other,LARGE,1.62,426.06
+Jehu Rudeforth,SP22,Yummies,Seattle,G1,P11,166,365,After Nines,Bites,LARGE,4.43,1616.95
+Kelci Walkden,SP15,Yummies,Wellington,G1,P22,146,166,Peanut Butter Cubes,Bites,SMALL,3.57,592.62
+barfaughny,SP01,Yummies,Hyderabad,G4,P06,140,527,Eclairs,Bites,LARGE,2.24,1180.48
+Marney O'Breen,SP16,Jucies,Wellington,G2,P16,78,132,Organic Choco Syrup,Other,SMALL,1.47,194.04
+Wilone O'Kielt,SP04,Delish,Hyderabad,G6,P09,61,117,Orange Choco,Bars,LARGE,7.14,835.38
+Jan Morforth,SP13,Delish,Wellington,G3,P16,113,96,Organic Choco Syrup,Other,SMALL,1.47,141.12
+Husein Augar,SP11,Yummies,Wellington,G1,P01,43,697,Milk Bars,Bars,LARGE,1.52,1059.44
+Kelci Walkden,SP15,Yummies,Wellington,G6,P12,160,844,Fruit & Nut Bars,Bars,LARGE,1.58,1333.52
+Rafaelita Blaksland,SP17,Yummies,Wellington,G4,P16,232,425,Organic Choco Syrup,Other,SMALL,1.47,624.75
+barfaughny,SP01,Yummies,Hyderabad,G2,P01,263,192,Milk Bars,Bars,LARGE,1.52,291.84
+Mallorie Waber,SP21,Yummies,Seattle,G6,P04,148,781,Raspberry Choco,Bars,LARGE,4.09,3194.29
+Andria Kimpton,SP09,Jucies,Hyderabad,G2,P16,171,166,Organic Choco Syrup,Other,SMALL,1.47,244.02
+Marney O'Breen,SP16,Jucies,Wellington,G2,P08,352,87,99% Dark & Pure,Bars,LARGE,2.47,214.89
+Curtice Advani,SP06,Delish,Hyderabad,G5,P04,72,549,Raspberry Choco,Bars,LARGE,4.09,2245.41
+Van Tuxwell,SP23,Yummies,Seattle,G6,P13,35,460,85% Dark Bars,Bars,SMALL,0.64,294.4
+Ches Bonnell,SP08,Yummies,Hyderabad,G6,P16,35,206,Organic Choco Syrup,Other,SMALL,1.47,302.82
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G6,P13,208,240,85% Dark Bars,Bars,SMALL,0.64,153.6
+Roddy Speechley,SP24,Delish,Seattle,G4,P11,97,51,After Nines,Bites,LARGE,4.43,225.93
+Kaine Padly,SP07,Delish,Hyderabad,G5,P20,137,357,Smooth Sliky Salty,Bars,SMALL,2.97,1060.29
+Wilone O'Kielt,SP04,Delish,Hyderabad,G3,P22,91,367,Peanut Butter Cubes,Bites,SMALL,3.57,1310.19
+Kelci Walkden,SP15,Yummies,Wellington,G5,P18,497,408,Manuka Honey Choco,Other,SMALL,4.75,1938
+Karlen McCaffrey,SP12,Yummies,Wellington,G4,P21,9,390,Choco Coated Almonds,Bites,SMALL,6.17,2406.3
+barfaughny,SP01,Yummies,Hyderabad,G4,P12,71,392,Fruit & Nut Bars,Bars,LARGE,1.58,619.36
+Wilone O'Kielt,SP04,Delish,Hyderabad,G2,P11,25,238,After Nines,Bites,LARGE,4.43,1054.34
+Dotty Strutley,SP14,Delish,Wellington,G2,P16,57,336,Organic Choco Syrup,Other,SMALL,1.47,493.92
+Jehu Rudeforth,SP22,Yummies,Seattle,G1,P07,33,247,Drinking Coco,Other,LARGE,1.62,400.14
+Wilone O'Kielt,SP04,Delish,Hyderabad,G4,P19,170,1524,70% Dark Bites,Bites,SMALL,4.97,7574.28
+Mallorie Waber,SP21,Yummies,Seattle,G3,P09,145,247,Orange Choco,Bars,LARGE,7.14,1763.58
+Rafaelita Blaksland,SP17,Yummies,Wellington,G4,P19,70,243,70% Dark Bites,Bites,SMALL,4.97,1207.71
+Rafaelita Blaksland,SP17,Yummies,Wellington,G6,P15,216,212,Baker's Choco Chips,Bars,SMALL,3.4,720.8
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G3,P05,199,163,Mint Chip Choco,Bars,LARGE,1.54,251.02
+Kelci Walkden,SP15,Yummies,Wellington,G3,P07,120,151,Drinking Coco,Other,LARGE,1.62,244.62
+Oby Sorrel,SP20,Jucies,Seattle,G3,P08,169,174,99% Dark & Pure,Bars,LARGE,2.47,429.78
+Husein Augar,SP11,Yummies,Wellington,G3,P08,294,77,99% Dark & Pure,Bars,LARGE,2.47,190.19
+Jan Morforth,SP13,Delish,Wellington,G1,P06,131,739,Eclairs,Bites,LARGE,2.24,1655.36
+Kelci Walkden,SP15,Yummies,Wellington,G3,P04,359,54,Raspberry Choco,Bars,LARGE,4.09,220.86
+Husein Augar,SP11,Yummies,Wellington,G6,P19,119,791,70% Dark Bites,Bites,SMALL,4.97,3931.27
+Kaine Padly,SP07,Delish,Hyderabad,G3,P11,143,68,After Nines,Bites,LARGE,4.43,301.24
+Andria Kimpton,SP09,Jucies,Hyderabad,G1,P21,179,157,Choco Coated Almonds,Bites,SMALL,6.17,968.69
+Rafaelita Blaksland,SP17,Yummies,Wellington,G6,P14,214,455,White Choc,Other,SMALL,0.16,72.8
+barfaughny,SP01,Yummies,Hyderabad,G3,P07,259,110,Drinking Coco,Other,LARGE,1.62,178.2
+Dotty Strutley,SP14,Delish,Wellington,G2,P06,4,898,Eclairs,Bites,LARGE,2.24,2011.52
+Rafaelita Blaksland,SP17,Yummies,Wellington,G3,P01,294,318,Milk Bars,Bars,LARGE,1.52,483.36
+Andria Kimpton,SP09,Jucies,Hyderabad,G1,P05,137,70,Mint Chip Choco,Bars,LARGE,1.54,107.8
+Roddy Speechley,SP24,Delish,Seattle,G4,P06,146,183,Eclairs,Bites,LARGE,2.24,409.92
+Ches Bonnell,SP08,Yummies,Hyderabad,G5,P18,300,115,Manuka Honey Choco,Other,SMALL,4.75,546.25
+Oby Sorrel,SP20,Jucies,Seattle,G1,P21,244,297,Choco Coated Almonds,Bites,SMALL,6.17,1832.49
+Marney O'Breen,SP16,Jucies,Wellington,G2,P14,55,249,White Choc,Other,SMALL,0.16,39.84
+Roddy Speechley,SP24,Delish,Seattle,G2,P17,118,389,Caramel Stuffed Bars,Bars,SMALL,0.54,210.06
+Mallorie Waber,SP21,Yummies,Seattle,G4,P01,46,6,Milk Bars,Bars,LARGE,1.52,9.12
+Jehu Rudeforth,SP22,Yummies,Seattle,G4,P14,151,37,White Choc,Other,SMALL,0.16,5.92
+Roddy Speechley,SP24,Delish,Seattle,G2,P20,121,809,Smooth Sliky Salty,Bars,SMALL,2.97,2402.73
+Kaine Padly,SP07,Delish,Hyderabad,G2,P07,323,93,Drinking Coco,Other,LARGE,1.62,150.66
+Karlen McCaffrey,SP12,Yummies,Wellington,G1,P14,89,841,White Choc,Other,SMALL,0.16,134.56
+Husein Augar,SP11,Yummies,Wellington,G4,P03,185,730,Almond Choco,Bars,LARGE,9.6,7008
+Roddy Speechley,SP24,Delish,Seattle,G6,P07,345,260,Drinking Coco,Other,LARGE,1.62,421.2
+Curtice Advani,SP06,Delish,Hyderabad,G3,P09,7,858,Orange Choco,Bars,LARGE,7.14,6126.12
+Kaine Padly,SP07,Delish,Hyderabad,G3,P12,104,116,Fruit & Nut Bars,Bars,LARGE,1.58,183.28
+Kaine Padly,SP07,Delish,Hyderabad,G2,P11,32,327,After Nines,Bites,LARGE,4.43,1448.61
+Curtice Advani,SP06,Delish,Hyderabad,G6,P21,403,243,Choco Coated Almonds,Bites,SMALL,6.17,1499.31
+Kaine Padly,SP07,Delish,Hyderabad,G6,P17,239,182,Caramel Stuffed Bars,Bars,SMALL,0.54,98.28
+Madelene Upcott,SP18,Jucies,Wellington,G5,P14,219,348,White Choc,Other,SMALL,0.16,55.68
+Camilla Castle,SP25,Delish,Seattle,G4,P03,1,436,Almond Choco,Bars,LARGE,9.6,4185.6
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G6,P05,143,235,Mint Chip Choco,Bars,LARGE,1.54,361.9
+Beverie Moffet,SP19,Jucies,Seattle,G3,P02,91,10,50% Dark Bites,Bites,LARGE,2.57,25.7
+Kelci Walkden,SP15,Yummies,Wellington,G6,P10,211,439,Spicy Special Slims,Bites,LARGE,5.79,2541.81
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G4,P01,54,233,Milk Bars,Bars,LARGE,1.52,354.16
+Kaine Padly,SP07,Delish,Hyderabad,G1,P01,24,282,Milk Bars,Bars,LARGE,1.52,428.64
+Gigi Bohling,SP05,Delish,Hyderabad,G1,P16,455,180,Organic Choco Syrup,Other,SMALL,1.47,264.6
+barfaughny,SP01,Yummies,Hyderabad,G2,P16,185,379,Organic Choco Syrup,Other,SMALL,1.47,557.13
+Mallorie Waber,SP21,Yummies,Seattle,G5,P15,75,329,Baker's Choco Chips,Bars,SMALL,3.4,1118.6
+Husein Augar,SP11,Yummies,Wellington,G5,P16,86,212,Organic Choco Syrup,Other,SMALL,1.47,311.64
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G3,P19,7,45,70% Dark Bites,Bites,SMALL,4.97,223.65
+Dotty Strutley,SP14,Delish,Wellington,G1,P21,75,580,Choco Coated Almonds,Bites,SMALL,6.17,3578.6
+Andria Kimpton,SP09,Jucies,Hyderabad,G4,P14,9,308,White Choc,Other,SMALL,0.16,49.28
+Rafaelita Blaksland,SP17,Yummies,Wellington,G2,P16,75,149,Organic Choco Syrup,Other,SMALL,1.47,219.03
+Karlen McCaffrey,SP12,Yummies,Wellington,G3,P13,105,538,85% Dark Bars,Bars,SMALL,0.64,344.32
+Andria Kimpton,SP09,Jucies,Hyderabad,G6,P19,11,210,70% Dark Bites,Bites,SMALL,4.97,1043.7
+Kaine Padly,SP07,Delish,Hyderabad,G2,P20,43,381,Smooth Sliky Salty,Bars,SMALL,2.97,1131.57
+Ches Bonnell,SP08,Yummies,Hyderabad,G6,P12,140,1407,Fruit & Nut Bars,Bars,LARGE,1.58,2223.06
+Kaine Padly,SP07,Delish,Hyderabad,G6,P19,256,306,70% Dark Bites,Bites,SMALL,4.97,1520.82
+Beverie Moffet,SP19,Jucies,Seattle,G1,P14,21,461,White Choc,Other,SMALL,0.16,73.76
+Kelci Walkden,SP15,Yummies,Wellington,G2,P18,166,256,Manuka Honey Choco,Other,SMALL,4.75,1216
+barfaughny,SP01,Yummies,Hyderabad,G1,P22,203,94,Peanut Butter Cubes,Bites,SMALL,3.57,335.58
+Mallorie Waber,SP21,Yummies,Seattle,G4,P21,33,331,Choco Coated Almonds,Bites,SMALL,6.17,2042.27
+Gigi Bohling,SP05,Delish,Hyderabad,G1,P11,126,684,After Nines,Bites,LARGE,4.43,3030.12
+barfaughny,SP01,Yummies,Hyderabad,G1,P02,50,235,50% Dark Bites,Bites,LARGE,2.57,603.95
+Karlen McCaffrey,SP12,Yummies,Wellington,G2,P11,546,327,After Nines,Bites,LARGE,4.43,1448.61
+Roddy Speechley,SP24,Delish,Seattle,G4,P08,401,57,99% Dark & Pure,Bars,LARGE,2.47,140.79
+Brien Boise,SP10,Jucies,Wellington,G5,P11,221,249,After Nines,Bites,LARGE,4.43,1103.07
+Jan Morforth,SP13,Delish,Wellington,G5,P06,133,265,Eclairs,Bites,LARGE,2.24,593.6
+Husein Augar,SP11,Yummies,Wellington,G1,P13,81,546,85% Dark Bars,Bars,SMALL,0.64,349.44
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G1,P10,124,390,Spicy Special Slims,Bites,LARGE,5.79,2258.1
+Marney O'Breen,SP16,Jucies,Wellington,G1,P05,172,357,Mint Chip Choco,Bars,LARGE,1.54,549.78
+Camilla Castle,SP25,Delish,Seattle,G1,P16,127,57,Organic Choco Syrup,Other,SMALL,1.47,83.79
+Andria Kimpton,SP09,Jucies,Hyderabad,G6,P20,135,155,Smooth Sliky Salty,Bars,SMALL,2.97,460.35
+Curtice Advani,SP06,Delish,Hyderabad,G6,P20,178,168,Smooth Sliky Salty,Bars,SMALL,2.97,498.96
+Rafaelita Blaksland,SP17,Yummies,Wellington,G3,P15,76,891,Baker's Choco Chips,Bars,SMALL,3.4,3029.4
+Husein Augar,SP11,Yummies,Wellington,G2,P22,223,22,Peanut Butter Cubes,Bites,SMALL,3.57,78.54
+Roddy Speechley,SP24,Delish,Seattle,G1,P17,32,315,Caramel Stuffed Bars,Bars,SMALL,0.54,170.1
+Husein Augar,SP11,Yummies,Wellington,G1,P09,101,542,Orange Choco,Bars,LARGE,7.14,3869.88
+Camilla Castle,SP25,Delish,Seattle,G3,P01,431,240,Milk Bars,Bars,LARGE,1.52,364.8
+Van Tuxwell,SP23,Yummies,Seattle,G6,P22,129,501,Peanut Butter Cubes,Bites,SMALL,3.57,1788.57
+Rafaelita Blaksland,SP17,Yummies,Wellington,G3,P14,20,189,White Choc,Other,SMALL,0.16,30.24
+Dotty Strutley,SP14,Delish,Wellington,G1,P01,77,294,Milk Bars,Bars,LARGE,1.52,446.88
+Beverie Moffet,SP19,Jucies,Seattle,G6,P19,48,240,70% Dark Bites,Bites,SMALL,4.97,1192.8
+Beverie Moffet,SP19,Jucies,Seattle,G2,P05,246,99,Mint Chip Choco,Bars,LARGE,1.54,152.46
+Jehu Rudeforth,SP22,Yummies,Seattle,G2,P16,229,382,Organic Choco Syrup,Other,SMALL,1.47,561.54
+Rafaelita Blaksland,SP17,Yummies,Wellington,G2,P22,28,657,Peanut Butter Cubes,Bites,SMALL,3.57,2345.49
+Roddy Speechley,SP24,Delish,Seattle,G2,P15,432,240,Baker's Choco Chips,Bars,SMALL,3.4,816
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G4,P09,206,758,Orange Choco,Bars,LARGE,7.14,5412.12
+Kelci Walkden,SP15,Yummies,Wellington,G3,P01,299,194,Milk Bars,Bars,LARGE,1.52,294.88
+Camilla Castle,SP25,Delish,Seattle,G6,P18,36,7,Manuka Honey Choco,Other,SMALL,4.75,33.25
+Madelene Upcott,SP18,Jucies,Wellington,G6,P13,21,520,85% Dark Bars,Bars,SMALL,0.64,332.8
+Curtice Advani,SP06,Delish,Hyderabad,G4,P09,80,289,Orange Choco,Bars,LARGE,7.14,2063.46
+Andria Kimpton,SP09,Jucies,Hyderabad,G6,P12,140,350,Fruit & Nut Bars,Bars,LARGE,1.58,553
+Jan Morforth,SP13,Delish,Wellington,G3,P03,89,18,Almond Choco,Bars,LARGE,9.6,172.8
+Gigi Bohling,SP05,Delish,Hyderabad,G1,P10,19,111,Spicy Special Slims,Bites,LARGE,5.79,642.69
+Jehu Rudeforth,SP22,Yummies,Seattle,G6,P13,6,308,85% Dark Bars,Bars,SMALL,0.64,197.12
+Gigi Bohling,SP05,Delish,Hyderabad,G6,P09,70,344,Orange Choco,Bars,LARGE,7.14,2456.16
+Marney O'Breen,SP16,Jucies,Wellington,G3,P07,273,266,Drinking Coco,Other,LARGE,1.62,430.92
+Kelci Walkden,SP15,Yummies,Wellington,G3,P08,231,527,99% Dark & Pure,Bars,LARGE,2.47,1301.69
+Kelci Walkden,SP15,Yummies,Wellington,G3,P12,168,5,Fruit & Nut Bars,Bars,LARGE,1.58,7.9
+Beverie Moffet,SP19,Jucies,Seattle,G6,P15,103,189,Baker's Choco Chips,Bars,SMALL,3.4,642.6
+Karlen McCaffrey,SP12,Yummies,Wellington,G1,P09,300,2707,Orange Choco,Bars,LARGE,7.14,19327.98
+Roddy Speechley,SP24,Delish,Seattle,G6,P01,69,338,Milk Bars,Bars,LARGE,1.52,513.76
+Dotty Strutley,SP14,Delish,Wellington,G1,P04,103,643,Raspberry Choco,Bars,LARGE,4.09,2629.87
+Oby Sorrel,SP20,Jucies,Seattle,G2,P10,189,460,Spicy Special Slims,Bites,LARGE,5.79,2663.4
+barfaughny,SP01,Yummies,Hyderabad,G2,P20,322,266,Smooth Sliky Salty,Bars,SMALL,2.97,790.02
+Van Tuxwell,SP23,Yummies,Seattle,G3,P06,70,166,Eclairs,Bites,LARGE,2.24,371.84
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G1,P14,18,46,White Choc,Other,SMALL,0.16,7.36
+Karlen McCaffrey,SP12,Yummies,Wellington,G5,P20,272,128,Smooth Sliky Salty,Bars,SMALL,2.97,380.16
+Van Tuxwell,SP23,Yummies,Seattle,G1,P21,208,300,Choco Coated Almonds,Bites,SMALL,6.17,1851
+Husein Augar,SP11,Yummies,Wellington,G3,P22,14,111,Peanut Butter Cubes,Bites,SMALL,3.57,396.27
+Wilone O'Kielt,SP04,Delish,Hyderabad,G1,P04,97,118,Raspberry Choco,Bars,LARGE,4.09,482.62
+Ches Bonnell,SP08,Yummies,Hyderabad,G1,P10,180,446,Spicy Special Slims,Bites,LARGE,5.79,2582.34
+Jehu Rudeforth,SP22,Yummies,Seattle,G6,P11,98,233,After Nines,Bites,LARGE,4.43,1032.19
+Andria Kimpton,SP09,Jucies,Hyderabad,G1,P02,239,1033,50% Dark Bites,Bites,LARGE,2.57,2654.81
+Roddy Speechley,SP24,Delish,Seattle,G1,P15,5,1859,Baker's Choco Chips,Bars,SMALL,3.4,6320.6
+Gunar Cockshoot,SP03,Yummies,Hyderabad,G2,P06,10,276,Eclairs,Bites,LARGE,2.24,618.24
+Brien Boise,SP10,Jucies,Wellington,G6,P11,480,276,After Nines,Bites,LARGE,4.43,1222.68
+Roddy Speechley,SP24,Delish,Seattle,G2,P07,149,332,Drinking Coco,Other,LARGE,1.62,537.84
+Beverie Moffet,SP19,Jucies,Seattle,G3,P16,296,429,Organic Choco Syrup,Other,SMALL,1.47,630.63
+Madelene Upcott,SP18,Jucies,Wellington,G3,P06,365,581,Eclairs,Bites,LARGE,2.24,1301.44
+Beverie Moffet,SP19,Jucies,Seattle,G2,P06,104,275,Eclairs,Bites,LARGE,2.24,616
+Mallorie Waber,SP21,Yummies,Seattle,G1,P16,78,573,Organic Choco Syrup,Other,SMALL,1.47,842.31
+Rafaelita Blaksland,SP17,Yummies,Wellington,G2,P02,161,546,50% Dark Bites,Bites,LARGE,2.57,1403.22
+Madelene Upcott,SP18,Jucies,Wellington,G2,P15,128,332,Baker's Choco Chips,Bars,SMALL,3.4,1128.8
+Mallorie Waber,SP21,Yummies,Seattle,G1,P04,52,107,Raspberry Choco,Bars,LARGE,4.09,437.63
+Curtice Advani,SP06,Delish,Hyderabad,G1,P17,228,139,Caramel Stuffed Bars,Bars,SMALL,0.54,75.06
+Rafaelita Blaksland,SP17,Yummies,Wellington,G5,P22,435,107,Peanut Butter Cubes,Bites,SMALL,3.57,381.99
+Madelene Upcott,SP18,Jucies,Wellington,G3,P16,53,471,Organic Choco Syrup,Other,SMALL,1.47,692.37
+barfaughny,SP01,Yummies,Hyderabad,G4,P13,24,334,85% Dark Bars,Bars,SMALL,0.64,213.76
+Karlen McCaffrey,SP12,Yummies,Wellington,G3,P15,120,324,Baker's Choco Chips,Bars,SMALL,3.4,1101.6
+Ches Bonnell,SP08,Yummies,Hyderabad,G4,P07,164,12,Drinking Coco,Other,LARGE,1.62,19.44
+Karlen McCaffrey,SP12,Yummies,Wellington,G3,P09,8,198,Orange Choco,Bars,LARGE,7.14,1413.72
+Ches Bonnell,SP08,Yummies,Hyderabad,G2,P08,226,461,99% Dark & Pure,Bars,LARGE,2.47,1138.67
+barfaughny,SP01,Yummies,Hyderabad,G1,P20,199,665,Smooth Sliky Salty,Bars,SMALL,2.97,1975.05
+Van Tuxwell,SP23,Yummies,Seattle,G5,P02,90,261,50% Dark Bites,Bites,LARGE,2.57,670.77
+Wilone O'Kielt,SP04,Delish,Hyderabad,G5,P22,133,120,Peanut Butter Cubes,Bites,SMALL,3.57,428.4
+Dennison Crosswaite,SP02,Yummies,Hyderabad,G3,P10,283,275,Spicy Special Slims,Bites,LARGE,5.79,1592.25
+Andria Kimpton,SP09,Jucies,Hyderabad,G2,P20,11,433,Smooth Sliky Salty,Bars,SMALL,2.97,1286.01
