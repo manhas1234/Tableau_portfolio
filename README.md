@@ -6,8 +6,10 @@
 ![Awesome chocolates sales (2021)](https://user-images.githubusercontent.com/130725137/235829303-787cd15d-ea6c-427c-8d2b-7197d305dcd6.png)
 
 
+
 # 2. Video_game_sales_report [link](https://public.tableau.com/app/profile/sumit.manhas7726/viz/Videogamesalesreport1980-2020byglobally/Dashboard1)
 
+![Dashboard 1 (1)](https://github.com/manhas1234/Tableau_portfolio/assets/130725137/b1b4cd34-d977-47cd-8c79-bff413bf9d6a)
 
 
 
