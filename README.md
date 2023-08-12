@@ -12,5 +12,7 @@
 
 
 # 3 World population(1970-2022)  [link](https://public.tableau.com/app/profile/sumit.manhas7726/viz/Worldpopulation1970-2022_16826623897280/worldpopulation)
+![IMG_20230812_185631](https://github.com/manhas1234/Tableau_portfolio/assets/130725137/7506be1c-5ad5-448c-9b17-933b891740ad)
+
 
 
